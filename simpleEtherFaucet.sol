@@ -1,4 +1,6 @@
-// SPDX-License-Identifier: UNLICENSED
+
+//A faucet is a relatively simple thing: it gives out ether to any address that asks, and can be refilled periodically
+
 
 pragma solidity ^0.4.19;
 
